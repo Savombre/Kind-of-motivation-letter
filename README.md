@@ -1,5 +1,5 @@
 
-In order to show you my motivation I scraped the web site, and counted the words.
+In order to show my motivation I scraped the web site, and counted the words.
 
 By the way, I used SiteSucker to download the website. You can find the result in the folder "bigabid"
 
